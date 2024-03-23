@@ -11,10 +11,8 @@
     "petersburgBlock": 0,
     "istanbulBlock": 0,
     "muirGlacierBlock": 0,
-   "RedCoastBlock":5,
 		"BerlinBlock":0,
 		"LondonBlock":0,
-		"SophonBlock":50,
     "congress": { 
       "period": 1, 
       "epoch": 2000
