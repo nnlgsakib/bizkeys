@@ -1,0 +1,5 @@
+chaindata
+lightchaindata
+triecache
+nodes
+transactions.rlp
